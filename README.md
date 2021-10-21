@@ -13,7 +13,7 @@ lancer le script depuis l'url : http://127.0.0.1/creation_db/
 
   un message en haut à droite s' affiche la base de données est créée et remplie la base données est crée et alimenter 
 
-2. telecharger et extraire le dossier chapelle-curreaux qui est l' enregistrer dans le répertoire htdocs sous XAMPP ou www sous WAMP
+2. telecharger et extraire le dossier chapelle-curreaux. L' enregistrer dans le répertoire htdocs sous XAMPP, ou www sous WAMP
 lancer le site depuis l'url : http://127.0.0.1/chapelle-curreaux/public/
 
 
