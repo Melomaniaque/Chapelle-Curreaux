@@ -8,7 +8,7 @@ if ($pdo->exec('DROP DATABASE IF EXISTS mediatheque') !== false) {
                 echo 'la base de données est crée est remplie';
             }
         } else {
-            echo 'Impossible de créer la table<br>';
+            echo 'Impossible de créer les table<br>';
         }
     } else {
         echo 'Impossible de créer la base<br>';
