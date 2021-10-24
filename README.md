@@ -5,6 +5,12 @@ pré requis
 .lancement du module apache et MySQL dans panel de controle de XAMPP
 
 
+![image](https://user-images.githubusercontent.com/72268019/138587264-f92ce557-f95e-4038-9682-4b157b77c0a8.png)
+
+
+
+
+
 
 pour deployer le site en local :
 
