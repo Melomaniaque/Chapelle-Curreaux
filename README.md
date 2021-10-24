@@ -34,6 +34,19 @@ lancer le script depuis l'url : http://127.0.0.1/creation_db/
 lancer le site depuis l'url : http://127.0.0.1/chapelle-curreaux/public/
 
 
+![image](https://user-images.githubusercontent.com/72268019/138587920-92dfa003-9c6f-4906-a34c-3b692924a253.png)
+
+
+
+
+
+
+
+
+
+
+
+
 3. pour vous connecter en tant qu'employé et avoir accés a la totalité du site 
 login : admin@gmail.com
 mot de passe : azeazeaze
