@@ -7,8 +7,8 @@
         <div class="p-4 mx-auto mr-4 shadow blur bg-secondary bg-opacity-10" style="margin-top: 50px;width:100%;max-width: 340px;background-color: rgba(255, 255, 255, 0.3);
                 backdrop-filter: blur(12px);">
 
-            <center><h1 style="font-family: 'Ephesis', cursive;">Chapelle Curreaux</h1></center>
-            <center><h2 style="font-family: 'Ephesis', cursive;">devenir membre</h2></center>
+            <h1 class="text-center" style="font-family: 'Ephesis', cursive;">Chapelle Curreaux</h1>
+            <h2 class="text-center" style="font-family: 'Ephesis', cursive;">devenir membre</h2>
 
             <?php if (count($errors) > 0): ?>
                 <div class="alert alert-warning alert-dismissible fade show p-1" role="alert">
