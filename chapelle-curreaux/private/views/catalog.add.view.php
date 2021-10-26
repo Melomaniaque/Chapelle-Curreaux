@@ -7,7 +7,7 @@
         <div class="p-4 mx-auto mr-4 shadow rounded" style="margin-top: 50px;width:100%;max-width: 340px;background-color: rgba(255, 255, 255, 0.3);
   backdrop-filter: blur(12px);">
 
-            <h3 class="text-center">Ajouter un livre !</h3>
+            <h3 class="text-center">Ajouter un livre</h3>
 
             <?php if (count($errors) > 0): ?>
                 <div class="alert alert-warning alert-dismissible fade show p-1" role="alert">
