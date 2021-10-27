@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Page not found</title>
+	<title>Page not found sorry </title>
 </head>
 <body>
 	<h1>Page not found</h1>
