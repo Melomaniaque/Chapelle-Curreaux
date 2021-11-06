@@ -69,6 +69,7 @@
                                 </button>
                             </div>
                         </form>
+                        
                         <?php foreach ($rows as $row): ?>
                             <div class="card m-2 bg-warning bg-opacity-10" style="max-width: 340px;max-height: 300px;">
                                 <div class="row ">
