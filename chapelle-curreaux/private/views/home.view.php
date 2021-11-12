@@ -40,15 +40,12 @@
                                 <tr>
                                     <td><img src="<?= $bookrow->image ?>" class="img-fluid rounded-start" alt="...">
                                     </td>
-
                                     <td><?= $bookrow->title ?></td>
                                     <td><?= get_date($bookrow->reservation_date) ?></td>
                                     <td><?= get_date($bookrow->return_date) ?></td>
                                 </tr>
                             <?php endif; ?>
-
                         <?php endforeach; ?>
-
                     <?php endif;
                 } ?>
 

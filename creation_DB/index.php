@@ -2,8 +2,8 @@
 $pdo = new PDO('mysql:host=localhost', 'root', '');
 if ($pdo->exec('DROP DATABASE IF EXISTS mediatheque') !== false) {
     if ($pdo->exec('CREATE DATABASE mediatheque') !== false) {
-        $museumPdo = new PDO('mysql:dbname=mediatheque;host=localhost', 'root', '');
-        if ($museumPdo->query(file_get_contents('mediatheque.sql'))) {
+        $mediathequePdo = new PDO('mysql:dbname=mediatheque;host=localhost', 'root', '');
+        if ($mediathequePdo->query(file_get_contents('mediatheque.sql'))) {
           
                 echo 'la base de données est crée est remplie';
             }

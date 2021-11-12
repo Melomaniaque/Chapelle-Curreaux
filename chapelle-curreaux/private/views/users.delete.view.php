@@ -3,7 +3,7 @@
 
     <div class="container-fluid p-4 shadow mx-auto" style="max-width: 1000px; background-color: rgba(255, 255, 255, 0.3);
             backdrop-filter: blur(12px);">
-        <?php $this->view('includes/crumbs', ['crumbs' => $crumbs]) ?>
+    
 
         <?php if ($row): ?>
             <div class="card-group justify-content-center">

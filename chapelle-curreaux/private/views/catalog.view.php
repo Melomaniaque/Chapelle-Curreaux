@@ -93,7 +93,7 @@
                             </div>
                         <?php endforeach; ?>
                     <?php else: ?>
-                        <h4>il n'y a actuellement aucun membres inscrit</h4>
+                        <h4>il n'y a actuellement aucun livre</h4>
                     <?php endif;
                  } ?>
             </div>

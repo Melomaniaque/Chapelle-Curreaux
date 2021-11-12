@@ -22,7 +22,6 @@
                         </div>
                     <?php endif;
                 } ?>
-
                 <select class="my-2 form-control" name="available" style="background: transparent; border: none;display: none;">
                     <option <?= get_select('available', 'reserved') ?> value="reserved" selected>oui</option>
                 </select>
@@ -32,10 +31,7 @@
                 <a href="<?= ROOT ?>/catalog">
                     <input class="btn btn-danger" type="button" value="Retour">
                 </a>
-
             </form>
-
-
         </div>
     <?php else: ?>
 
